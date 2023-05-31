@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -43,7 +44,7 @@ body {
 
 ::selection {
   color: #fff;
-  background: #ff00d4;
+  background: #000000;
 }
 
 .wrapper {
@@ -129,7 +130,7 @@ li {
   letter-spacing: 0.3px;
   pointer-events: none;
   transition: transform 0.25s ease;
-  background:  #5343dd;;
+  background:  #000000;;
 }
 
 .clear-btn.active {
@@ -157,7 +158,7 @@ li {
 }
 
 .task-box::-webkit-scrollbar-track {
-  background: #f12711;
+  background: #000000;
   border-radius: 25px;
 }
 
